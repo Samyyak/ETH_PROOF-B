@@ -79,7 +79,7 @@ The address is then used to set a value to it as well as check balance in it. Di
 ## Authors
 
 Samyak Jain
-[@Chandigarh University]
+[@Chandigarh University](www.linkedin.com/in/samyak-jain-179710233)
 
 
 ## License
